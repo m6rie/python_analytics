@@ -24,3 +24,13 @@ This allowed me to work with:
 - functions
 - for loop
 - if statement
+
+## A calculator
+This program is a calculator that does basic operations.
+
+It allowed my to work with:
+- classes
+- functions
+- while loop
+- if statement
+- error handling
